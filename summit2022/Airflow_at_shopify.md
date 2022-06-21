@@ -23,3 +23,5 @@
 ### Dag policy
 * allows you to conditionally reject DAGs at time of loading
 
+Metadata truncation daily: save time when migration
+
