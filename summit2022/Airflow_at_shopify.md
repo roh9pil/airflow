@@ -4,7 +4,7 @@
 
 ## Testing
 ### Unit tests
-* make assertions abount the structure and composition of the workflow, DAG
+* make assertions about the structure and composition of the workflow, DAG
 * no duplicated DAG IDs
 
 ### Smoke Tests
